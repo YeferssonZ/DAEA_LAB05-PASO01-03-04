@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CAy/sTVH4xdTZmxMaA83JuaBY0lEmYnu9EAuth+pTWDq7onRHf5SmpXL0TCeVkOQG2IuRyIKE6iqv8CKW9f/TA==",
+  "success": true,
+  "projectFilePath": "C:\\DAEA\\Laboratorio 05\\BlazingPizzaSite\\BlazingPizzaSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
